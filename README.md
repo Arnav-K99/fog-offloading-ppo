@@ -2,6 +2,11 @@
 
 Reinforcement learning system that intelligently routes compute tasks through a 3-tier fog computing network to minimize end-to-end latency, energy consumption, and cost.
 
+## Live Demo
+
+Interactive visualizer showing PPO vs random routing paths, node stats, and latency comparison:
+👉 [Live Demo](https://arnav-k99.github.io/fog-offloading-ppo/)
+
 ## Architecture
 
 ```
@@ -94,11 +99,6 @@ pip install stable-baselines3 gymnasium numpy
 ```
 
 Open `ARCH1.ipynb` in Jupyter and run all cells. The trained model is saved as `ppo_offloading_model.zip`.
-
-## Live Demo
-
-Interactive visualizer showing PPO vs random routing paths, node stats, and latency comparison:
-👉 [Live Demo](https://arnav-k99.github.io/fog-offloading-ppo/)
 
 ## Planned Improvements
 
