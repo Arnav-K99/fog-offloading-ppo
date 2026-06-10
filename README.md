@@ -98,7 +98,7 @@ Open `ARCH1.ipynb` in Jupyter and run all cells. The trained model is saved as `
 ## Live Demo
 
 Interactive visualizer showing PPO vs random routing paths, node stats, and latency comparison:
-👉 [Live Demo](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME)
+👉 [Live Demo](https://arnav-k99.github.io/fog-offloading-ppo/)
 
 ## Planned Improvements
 
